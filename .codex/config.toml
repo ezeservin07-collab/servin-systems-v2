@@ -1,0 +1,7 @@
+# Codex subagents use ChatGPT sign-in; this does not provision an API key.
+# Select parent model and permissions in the Codex client.
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 2
+default_subagent_model = "gpt-6-luna"
+default_subagent_reasoning_effort = "medium"

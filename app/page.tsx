@@ -153,7 +153,7 @@ export default function Home() {
             Propietario y Representante Legal: Ferreira Servin Fabricio Ezequiel. RUC: 6364832-6
             Dirección: Calle sin nombre Paralela a 8 de diciembre, Pilar, Ñeembucú, Paraguay
             Correo de contacto:
-            servinsystems@gmail.com
+            fabricio@servinsystems.com
           </p>
           <div className="flex flex-wrap justify-center gap-6 mt-4 px-4">
             <a href="/terminos" className="hover:text-cyan-400 transition">Términos y Condiciones</a>

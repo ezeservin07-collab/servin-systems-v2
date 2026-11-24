@@ -159,7 +159,7 @@ export default function Home() {
             <a href="/terminos" className="hover:text-cyan-400 transition">Términos y Condiciones</a>
             <a href="/privacidad" className="hover:text-cyan-400 transition">Política de Privacidad</a>
             <a href="/faq" className="hover:text-cyan-400 transition">Preguntas Frecuentes</a>
-            <a href="mailto:contacto@servinsystems.com" className="hover:text-cyan-400 transition">Soporte Técnico</a>
+            <a href="mailto:fabricio@servinsystems.com" className="hover:text-cyan-400 transition">Soporte Técnico</a>
           </div>
         </footer>
 
